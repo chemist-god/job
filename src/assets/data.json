@@ -1,0 +1,73 @@
+{
+    "jobs":[
+        {
+            "id": 1,
+            "title": "Software Dev",
+            "description": "2yrs of experience",
+            "salary": 50000,
+            "location": "London UK",
+            "job-type": "remote",
+            "skills": ["Python", "Java", "C++"]
+        },
+
+        {
+            "id": 2,
+            "title": "Fullstack Dev",
+            "description": "Experience in React",
+            "salary": 45000,
+            "location": "Ghana",
+            "job-type": "remote",
+            "skills": ["JavaScript", "Tailwind-Css", "React"]
+        },
+        {
+            "id": 3,
+            "title": "Data Scientist",
+            "description": "5yrs of experience in machine learning",
+            "salary": 70000,
+            "location": "New York, USA",
+            "job-type": "onsite",
+            "skills": ["Python", "R", "TensorFlow", "Tableau"]
+        },
+            
+        {
+            "id": 4,
+            "title": "UX/UI Designer",
+            "description": "Portfolio required",
+            "salary": 40000,
+            "location": "Berlin, Germany",
+            "job-type": "hybrid",
+            "skills": ["Figma", "Adobe XD", "Sketch", "Human-centered design"]
+        },
+            
+        {
+            "id": 5,
+            "title": "Cybersecurity Engineer",
+            "description": "Experience in penetration testing",
+            "salary": 60000,
+            "location": "Singapore",
+            "job-type": "remote",
+            "skills": ["CompTIA Security+", "CEH", "CISSP", "Python"]
+        },
+        {
+            "id": 6,
+            "title": "Digital Marketing Manager",
+            "description": "3yrs of experience in SEO",
+            "salary": 55000,
+            "location": "Sydney, Australia",
+            "job-type": "onsite",
+            "skills": ["Google Analytics", "Facebook Ads", "Content Marketing", "SEO"]
+        },
+            
+        {
+            "id": 7,
+            "title": "DevOps Engineer",
+            "description": "Experience with containerization",
+            "salary": 65000,
+            "location": "Paris, France",
+            "job-type": "hybrid",
+            "skills": ["Docker", "Kubernetes", "Jenkins", "AWS"]
+        }
+              
+
+    ]
+}
